@@ -11,7 +11,7 @@
             {
               "type": "Layer",
               "id": "y2k7",
-              "title": "最新（2007年～）",
+              "title": "最新_2007～）",
               "iconUrl": "http://cyberjapandata.gsi.go.jp/portal/sys/v4/symbols/670.png",
               "url": "http://cyberjapandata.gsi.go.jp/xyz/ort/{z}/{x}/{y}.jpg",
               "subdomains": "",
