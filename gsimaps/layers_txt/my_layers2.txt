@@ -1,0 +1,16 @@
+{
+  "layers": [
+    {
+      "type": "Layer",
+      "id": "std",
+      "title": "OSM",
+      "iconUrl": "",
+      "url": "http://[abc].tile.openstreetmap.org/zoom/x/y.png",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": ""
+    }
+  ]
+}
