@@ -1,6 +1,10 @@
 {
   "layers": [
     {
+      "type": "LayerGroup",
+      "title": "testfolder",
+      "entries": [
+      {
       "type": "Layer",
       "id": "std",
       "title": "OSM",
@@ -11,6 +15,8 @@
       "cocotile": true,
       "legendUrl": "",
       "html": ""
-    }
-  ]
+      }
+    ]
+  }
+]
 }
