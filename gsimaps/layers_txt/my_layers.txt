@@ -15,6 +15,20 @@
       "cocotile": true,
       "legendUrl": "",
       "html": ""
+      },
+      {
+      "type": "Layer",
+      "id": "refuge",
+      "title": "江戸川台から柏キャンパスへ",
+      "iconUrl": "",
+      "url": "http://sagara1020.github.io/gsimaptest/gsimaps/test231/{z}/{x}/{y}.geojson",
+      "subdomains": "",
+      "attribution": "",
+      "cocotile": true,
+      "legendUrl": "",
+      "html": ""
+      "maxZoom": 18,
+      "maxNativeZoom": 2
       }
     ]
   }
