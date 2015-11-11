@@ -2,18 +2,12 @@
   "layers": [
     {
       "type": "LayerGroup",
-      "title": "地図・空中写真",
+      "title": "test",
       "iconUrl": "",
       "open": false,
       "toggleall": false,
       "entries": [
-        {
-          "type": "LayerGroup",
-          "title": "写真",
-          "iconUrl": "",
-          "open": false,
-          "toggleall": false,
-          "entries": [
+      
             {
               "type": "Layer",
               "id": "y2k7",
@@ -32,5 +26,3 @@
         }
       ]
     }
-  ]
-}
