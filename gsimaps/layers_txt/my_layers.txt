@@ -15,20 +15,6 @@
       "cocotile": true,
       "legendUrl": "",
       "html": ""
-      },
-      {
-      "type": "Layer",
-      "id": "refuge",
-      "title": "一次避難所（越前市オープンデータより）",
-      "iconUrl": "",
-      "url": "http://sagara1020.github.io/gsimaptest/gsimaps/ex_refuge231/{z}/{x}/{y}.geojson",
-      "subdomains": "",
-      "attribution": "",
-      "cocotile": true,
-      "legendUrl": "",
-      "html": ""
-      "maxZoom": 18,
-      "maxNativeZoom": 2
       }
     ]
   }
