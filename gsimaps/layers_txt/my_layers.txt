@@ -3,13 +3,13 @@
     {
       "type": "Layer",
       "id": "std",
-      "title": "標準地図",
+      "title": "OSM",
       "iconUrl": "",
-      "url": "http://cyberjapandata.gsi.go.jp/xyz/std/{z}/{x}/{y}.png",
+      "url": "http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",
       "subdomains": "",
       "attribution": "",
       "cocotile": true,
-      "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
+      "legendUrl": "",
       "html": ""
     }
   ]
