@@ -17,7 +17,7 @@ var CONFIG = {};
 // (CONFIG.layers = null;に変更すると、同階層のlayers.txtを読込)
 CONFIG.layers = [
 	'./layers_txt/my_layers.txt',
-	'./layers_txt/my_layers3.txt',
+	'./layers_txt/3.txt',
 	'./layers_txt/layers1.txt',
 	'./layers_txt/layers2.txt',
 	'./layers_txt/layers3.txt',
