@@ -18,6 +18,7 @@ var CONFIG = {};
 CONFIG.layers = [
 	'./layers_txt/my_layers.txt',
 	'./layers_txt/3.txt',
+	'./layers_folder.txt',
 	'./layers_txt/layers1.txt',
 	'./layers_txt/layers2.txt',
 	'./layers_txt/layers3.txt',
