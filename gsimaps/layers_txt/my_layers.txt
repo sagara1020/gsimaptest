@@ -23,6 +23,14 @@
       "url": "http://sagara1020.github.io/gsimaptest/gsimaps/test231/{z}/{x}/{y}.geojson",
       "maxZoom": 18,
       "maxNativeZoom": 2
+      },
+      {
+      "type": "Layer",
+      "id": "refuge",
+      "title": "一次避難所（越前市オープンデータ）",
+      "url": "http://sagara1020.github.io/gsimaptest/gsimaps/echizen/{z}/{x}/{y}.geojson",
+      "maxZoom": 18,
+      "maxNativeZoom": 2
       }
     ]
   }
